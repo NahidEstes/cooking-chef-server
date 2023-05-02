@@ -22,12 +22,12 @@ app.get("/chef-info", (req, res) => {
 //   res.send(travelDetails);
 // });
 
-// app.get("/travel-details/:id", (req, res) => {
-//   const id = req.params.id;
-//   const selectedDetails = travelDetails.find((n) => n.id === id);
-//   res.send(selectedDetails);
-//   console.log(id);
-// });
+app.get("/chef-info/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const chefDetails = chefInformation.find((n) => n.id === id);
+  res.send(chefDetails);
+  console.log(id);
+});
 
 // app.get("/news/:id", (req, res) => {
 //   const id = req.params.id;
