@@ -6,7 +6,7 @@
     "rating": 4.5,
     "img_url": "https://example.com/bobby_flay.jpg",
     "num_recipes": 100,
-    "profile_picture": "https://example.com/bobby_flay_profile.jpg"
+    "profile_picture": "https://i.ibb.co/j61pw3p/bobby-flare.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "rating": 4.4,
     "img_url": "https://example.com/guy_fieri.jpg",
     "num_recipes": 80,
-    "profile_picture": "https://example.com/guy_fieri_profile.jpg"
+    "profile_picture": ""
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "rating": 4.6,
     "img_url": "https://example.com/alton_brown.jpg",
     "num_recipes": 150,
-    "profile_picture": "https://example.com/alton_brown_profile.jpg"
+    "profile_picture": "https://ibb.co/WnTf63s"
   },
   {
     "id": 4,
