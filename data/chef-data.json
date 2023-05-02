@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Bobby Flay",
+    "experience_years": 25,
+    "rating": 4.5,
+    "img_url": "https://example.com/bobby_flay.jpg",
+    "num_recipes": 100,
+    "profile_picture": "https://example.com/bobby_flay_profile.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Guy Fieri",
+    "experience_years": 20,
+    "rating": 4.4,
+    "img_url": "https://example.com/guy_fieri.jpg",
+    "num_recipes": 80,
+    "profile_picture": "https://example.com/guy_fieri_profile.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alton Brown",
+    "experience_years": 20,
+    "rating": 4.6,
+    "img_url": "https://example.com/alton_brown.jpg",
+    "num_recipes": 150,
+    "profile_picture": "https://example.com/alton_brown_profile.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mario Batali",
+    "experience_years": 25,
+    "rating": 4.3,
+    "img_url": "https://example.com/mario_batali.jpg",
+    "num_recipes": 120,
+    "profile_picture": "https://example.com/mario_batali_profile.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wolfgang Puck",
+    "experience_years": 40,
+    "rating": 4.8,
+    "img_url": "https://example.com/wolfgang_puck.jpg",
+    "num_recipes": 200,
+    "profile_picture": "https://example.com/wolfgang_puck_profile.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tyler Florence",
+    "experience_years": 15,
+    "rating": 4.2,
+    "img_url": "https://example.com/tyler_florence.jpg",
+    "num_recipes": 90,
+    "profile_picture": "https://example.com/tyler_florence_profile.jpg"
+  }
+]
