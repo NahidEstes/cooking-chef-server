@@ -5,17 +5,324 @@
     "experience_years": 25,
     "rating": 4.5,
     "img_url": "https://example.com/bobby_flay.jpg",
-    "num_recipes": 100,
-    "profile_picture": "https://i.ibb.co/j61pw3p/bobby-flare.jpg"
+    "num_recipes": 3,
+    "profile_picture": "https://i.ibb.co/j61pw3p/bobby-flare.jpg",
+    "details": "Robert William Flay, is an American celebrity chef, restaurateur, and reality television personality. Flay is the owner and executive chef of several restaurants and franchises, including Bobby's Burger Palace, Bobby's Burgers, and Amalfi.",
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Grilled Skirt Steak with Chimichurri Sauce",
+        "chef_name": "Bobby Flay",
+        "img_url": "https://example.com/grilled-skirt-steak.jpg",
+        "description": "This grilled skirt steak with chimichurri sauce is perfect for a weekend barbecue. The skirt steak is marinated in a mixture of olive oil, garlic, and spices before being grilled to perfection. The chimichurri sauce is a flavorful combination of parsley, garlic, vinegar, and olive oil.",
+        "prep_time": "30 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "40 minutes",
+        "ingredients": [
+          {
+            "name": "Skirt steak",
+            "quantity": "2 pounds"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "4 cloves, minced"
+          },
+          {
+            "name": "Cumin",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Paprika",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Black pepper",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "Parsley",
+            "quantity": "1/4 cup, chopped"
+          },
+          {
+            "name": "Red wine vinegar",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "1/2 cup"
+          }
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the olive oil, garlic, cumin, paprika, salt, and black pepper.",
+          "Add the skirt steak to the bowl and turn to coat evenly. Let the steak marinate in the refrigerator for at least 1 hour, or up to 8 hours.",
+          "Preheat a grill to high heat.",
+          "Remove the steak from the marinade and shake off any excess. Grill the steak for 3-4 minutes per side, or until it is browned and crispy on the outside and medium-rare on the inside.",
+          "Meanwhile, make the chimichurri sauce: In a small bowl, whisk together the parsley, garlic, red wine vinegar, and olive oil.",
+          "Let the steak rest for 5 minutes, then slice it thinly against the grain. Serve with the chimichurri sauce on the side."
+        ]
+      },
+      {
+        "id": 2,
+        "chef_name": "Bobby Flay",
+        "recipe_name": "Grilled Honey-Soy Glazed Salmon",
+        "image_url": "https://www.bobbyflay.com/wp-content/uploads/2017/05/grilled-salmon-1.jpg",
+        "ingredients": [
+          {
+            "name": "Salmon fillets",
+            "quantity": "4 (6-ounce)"
+          },
+          {
+            "name": "Low-sodium soy sauce",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "Honey",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "Rice wine vinegar",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Grated fresh ginger",
+            "quantity": "2 teaspoons"
+          },
+          {
+            "name": "Minced garlic",
+            "quantity": "1 teaspoon"
+          },
+          {
+            "name": "Canola oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Sesame oil",
+            "quantity": "1 teaspoon"
+          },
+          {
+            "name": "Sliced scallions",
+            "quantity": "2"
+          },
+          {
+            "name": "Sesame seeds, toasted",
+            "quantity": "2 teaspoons"
+          }
+        ],
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "Whisk together soy sauce, honey, rice wine vinegar, ginger, and garlic in a small bowl.",
+          "Brush salmon with canola oil and season with salt and pepper.",
+          "Grill salmon, skin-side down, for 4-5 minutes or until it easily releases from the grill grates.",
+          "Brush salmon with the honey-soy glaze and grill for another 2-3 minutes or until just cooked through.",
+          "Remove salmon from grill and brush with sesame oil.",
+          "Sprinkle with scallions and sesame seeds and serve immediately."
+        ]
+      },
+      {
+        "id": 3,
+        "recipe_name": "Spicy Grilled Shrimp Skewers",
+        "chef_name": "Bobby Flay",
+        "difficulty": "Easy",
+        "prep_time": "15 minutes",
+        "cook_time": "5 minutes",
+        "total_time": "20 minutes",
+        "yield": "4 servings",
+        "ingredients": [
+          {
+            "name": "large shrimp, peeled and deveined",
+            "quantity": "16-20 count"
+          },
+          { "name": "garlic, finely chopped", "quantity": "2 cloves" },
+          { "name": "serrano chile, finely chopped", "quantity": "1" },
+          { "name": "olive oil", "quantity": "2 tablespoons" },
+          { "name": "smoked paprika", "quantity": "1 teaspoon" },
+          { "name": "cayenne pepper", "quantity": "1/4 teaspoon" },
+          {
+            "name": "Salt and freshly ground black pepper",
+            "quantity": "To taste"
+          }
+        ],
+        "instructions": [
+          "Preheat grill to high.",
+          "In a large bowl, combine the shrimp, garlic, serrano chile, olive oil, smoked paprika, cayenne pepper, salt, and black pepper.",
+          "Thread the shrimp onto skewers and grill for 2 to 3 minutes per side, until cooked through.",
+          "Remove from grill and serve immediately."
+        ],
+        "image_url": "https://www.foodnetwork.com/content/dam/images/food/fullset/2013/3/29/1/FNM_040113-Grilled-Shrimp-Skewers-with-Cilantro-Sauce-Recipe-02_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382542674955.jpeg"
+      }
+    ]
   },
   {
     "id": 2,
-    "name": "Guy Fieri",
-    "experience_years": 20,
-    "rating": 4.4,
-    "img_url": "https://example.com/guy_fieri.jpg",
-    "num_recipes": 80,
-    "profile_picture": ""
+    "name": "Alfred Portale",
+    "experience_years": 40,
+    "rating": 4.7,
+    "image_url": "https://i.ibb.co/jkXxrS1/portale-02.webp",
+    "num_recipes": 3,
+    "bio": "Alfred Portale is an American chef and restaurateur. He is best known for his work at the renowned New York City restaurant, Gotham Bar and Grill, where he served as executive chef for over 30 years. During his tenure, Gotham Bar and Grill earned three Michelin stars and numerous James Beard Foundation Awards. Portale is also the author of several cookbooks, including Alfred Portale's Twelve Seasons Cookbook and Simple Pleasures: Home Cooking from the Gotham Bar and Grill's Acclaimed Chef.",
+    "recipe": [
+      {
+        "recipe_id": 1,
+        "name": "Alfred Portale's Lobster Risotto",
+        "description": "A rich and creamy risotto made with fresh lobster meat, white wine, and Parmesan cheese.",
+        "prep_time": "30 minutes",
+        "total_time": "1 hour",
+        "ingredients": [
+          {
+            "name": "lobster meat",
+            "quantity": "1 lb, cooked and chopped"
+          },
+          {
+            "name": "arborio rice",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "dry white wine",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "chicken broth",
+            "quantity": "4 cups, heated"
+          },
+          {
+            "name": "unsalted butter",
+            "quantity": "4 tbsp"
+          },
+          {
+            "name": "shallot",
+            "quantity": "1, minced"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "Parmesan cheese",
+            "quantity": "1 cup, grated"
+          },
+          {
+            "name": "fresh parsley",
+            "quantity": "2 tbsp, chopped"
+          },
+          {
+            "name": "salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "black pepper",
+            "quantity": "to taste"
+          }
+        ],
+        "instructions": [
+          "Melt 2 tablespoons of butter in a large saucepan over medium heat. Add the shallot and garlic and cook until softened, about 3 minutes.",
+          "Add the arborio rice and cook, stirring constantly, for 2 minutes.",
+          "Add the white wine and cook, stirring constantly, until the liquid has been absorbed.",
+          "Add 1 cup of the heated chicken broth and cook, stirring constantly, until the liquid has been absorbed.",
+          "Repeat with the remaining broth, 1 cup at a time, stirring constantly and waiting for the liquid to be absorbed before adding more.",
+          "When the rice is tender and the mixture is creamy, stir in the lobster meat, Parmesan cheese, parsley, and remaining butter.",
+          "Season with salt and pepper to taste and serve immediately."
+        ],
+        "img_url": "https://example.com/lobster_risotto.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "name": "Alfred Portale's Grilled Lamb Chops",
+        "description": "Juicy and flavorful lamb chops marinated in garlic, rosemary, and olive oil and grilled to perfection.",
+        "prep_time": "10 minutes",
+        "total_time": "25 minutes",
+        "ingredients": [
+          {
+            "name": "lamb chops",
+            "quantity": "8"
+          },
+          {
+            "name": "garlic",
+            "quantity": "3 cloves, minced"
+          },
+          {
+            "name": "rosemary",
+            "quantity": "2 tbsp, minced"
+          },
+          {
+            "name": "olive oil",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "lemon juice",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "salt",
+            "quantity": "to taste"
+          },
+          {
+            "name": "black pepper",
+            "quantity": "to taste"
+          }
+        ],
+        "instructions": [
+          "In a small bowl, whisk together the garlic, rosemary, olive oil, lemon juice, salt, and pepper.",
+          "Place the lamb chops in a large baking dish and pour the marinade over them. Turn to coat evenly.",
+          "Cover the dish and refrigerate for at least 1 hour or up to overnight.",
+          "Preheat a grill to high heat.",
+          "Remove the lamb chops from the marinade and discard any remaining marinade.",
+          "Grill the lamb chops for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+          "Let the lamb chops rest for 5 minutes before serving."
+        ],
+        "img_url": "https://example.com/grilled_lamb_chops.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "name": "Alfred Portale's Chocolate Mousse",
+        "description": "A classic dessert made with rich dark chocolate and whipped cream.",
+        "prep_time": "20 minutes",
+        "total_time": "2 hours",
+        "ingredients": [
+          {
+            "name": "dark chocolate",
+            "quantity": "8 oz, chopped"
+          },
+          {
+            "name": "heavy cream",
+            "quantity": "1 1/2 cups"
+          },
+          {
+            "name": "egg whites",
+            "quantity": "2"
+          },
+          {
+            "name": "sugar",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "vanilla extract",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "salt",
+            "quantity": "a pinch"
+          }
+        ],
+        "instructions": [
+          "Melt the chocolate in a heatproof bowl set over a pot of simmering water. Stir until smooth and remove from heat.",
+          "In a large bowl, beat the heavy cream until soft peaks form.",
+          "In another large bowl, beat the egg whites, sugar, vanilla, and salt until stiff peaks form.",
+          "Fold the melted chocolate into the whipped cream until fully incorporated.",
+          "Fold the egg white mixture into the chocolate mixture until no streaks remain.",
+          "Divide the mousse among 4-6 individual serving dishes and chill for at least 2 hours or up to overnight.",
+          "Garnish with whipped cream and chocolate shavings, if desired, and serve."
+        ],
+        "img_url": "https://example.com/chocolate_mousse.jpg"
+      }
+    ]
   },
   {
     "id": 3,
@@ -23,8 +330,198 @@
     "experience_years": 20,
     "rating": 4.6,
     "img_url": "https://example.com/alton_brown.jpg",
-    "num_recipes": 150,
-    "profile_picture": "https://i.ibb.co/SJ0FdqV/Alton.png"
+    "num_recipes": 3,
+    "profile_picture": "https://i.ibb.co/SJ0FdqV/Alton.png",
+    "recipe": [
+      {
+        "recipe_id": "1",
+        "name": "Pan-Seared Ribeye Steak",
+        "description": "A classic steakhouse dish made with a thick-cut ribeye steak seasoned with salt and pepper and seared to perfection in a cast iron skillet.",
+        "prep_time": "10 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "20 minutes",
+        "ingredients": [
+          {
+            "name": "ribeye steak",
+            "quantity": "1 (1 1/2 inch thick)"
+          },
+          {
+            "name": "kosher salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "freshly ground black pepper",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "vegetable oil",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "butter",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, crushed"
+          },
+          {
+            "name": "fresh rosemary",
+            "quantity": "1 sprig"
+          }
+        ],
+        "instructions": [
+          "Remove steak from the refrigerator and let it sit at room temperature for 1 hour.",
+          "Preheat oven to 400°F.",
+          "Season steak generously on both sides with salt and pepper.",
+          "Heat a cast iron skillet over high heat. Add vegetable oil and heat until shimmering.",
+          "Add steak to the skillet and cook for 3-4 minutes on each side, until a crust forms.",
+          "Add butter, garlic, and rosemary to the skillet. Use a spoon to baste the steak with the melted butter for 1-2 minutes.",
+          "Transfer the skillet to the oven and cook for an additional 5-6 minutes for medium-rare, or until desired doneness is reached.",
+          "Remove the skillet from the oven and transfer steak to a cutting board. Let it rest for 5 minutes.",
+          "Slice the steak against the grain and serve with your favorite side dishes."
+        ],
+        "image_url": "https://i.ibb.co/YWMBjpN/altonribye.jpg",
+        "video_url": "https://example.com/alton_brown_steak_video.mp4",
+        "nutrition_facts": {
+          "calories": 600,
+          "fat": "45g",
+          "carbs": "0g",
+          "protein": "50g"
+        }
+      },
+      {
+        "recipe_id": "2",
+        "name": "Good Eats Meatloaf",
+        "description": "A classic meatloaf recipe with a twist, featuring ground beef, pork, and veal, along with bread crumbs, milk, and a savory mixture of seasonings.",
+        "prep_time": "15 minutes",
+        "cook_time": "1 hour",
+        "total_time": "1 hour 15 minutes",
+        "ingredients": [
+          {
+            "name": "ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "ground pork",
+            "quantity": "1/2 lb"
+          },
+          {
+            "name": "ground veal",
+            "quantity": "1/2 lb"
+          },
+          {
+            "name": "breadcrumbs",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "whole milk",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "egg",
+            "quantity": "1 large"
+          },
+          {
+            "name": "onion",
+            "quantity": "1 medium, finely chopped"
+          },
+          {
+            "name": "garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "ketchup",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "Worcestershire sauce",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "dried thyme",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "kosher salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "freshly ground black pepper",
+            "quantity": "1/2 tsp"
+          }
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F.",
+          "In a large bowl, combine the ground beef, pork, and veal, along with the breadcrumbs, milk, egg, onion, garlic, ketchup, Worcestershire sauce, thyme, salt, and pepper.",
+          "Mix the ingredients together well, using your hands if necessary.",
+          "Transfer the mixture to a loaf pan and press it down evenly.",
+          "Bake for 1 hour, or until the internal temperature reaches 160°F.",
+          "Remove the meatloaf from the oven and let it rest for 10 minutes before slicing and serving."
+        ],
+        "image_url": "https://i.ibb.co/YZMjLMX/alton-2.png",
+        "video_url": "https://example.com/alton_brown_meatloaf_video.mp4",
+        "nutrition_facts": {
+          "calories": 500,
+          "fat": "25g",
+          "carbs": "20g",
+          "protein": "45g"
+        }
+      },
+      {
+        "recipe_id": "3",
+        "name": "Alton Brown's Guacamole",
+        "description": "A simple and classic recipe for guacamole, featuring ripe avocados, fresh lime juice, chopped tomatoes, red onion, jalapeño, and cilantro.",
+        "prep_time": "10 minutes",
+        "total_time": "10 minutes",
+        "ingredients": [
+          {
+            "name": "ripe avocados",
+            "quantity": "3"
+          },
+          {
+            "name": "fresh lime juice",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "tomato",
+            "quantity": "1 medium, seeded and chopped"
+          },
+          {
+            "name": "red onion",
+            "quantity": "1/4 cup, chopped"
+          },
+          {
+            "name": "jalapeño",
+            "quantity": "1 small, seeded and minced"
+          },
+          {
+            "name": "cilantro",
+            "quantity": "1/4 cup, chopped"
+          },
+          {
+            "name": "kosher salt",
+            "quantity": "1/2 tsp"
+          }
+        ],
+        "instructions": [
+          "Cut the avocados in half and remove the pits.",
+          "Scoop the avocado flesh into a medium bowl and add the lime juice.",
+          "Mash the avocado with a fork or potato masher until it's mostly smooth but still slightly chunky.",
+          "Stir in the chopped tomato, red onion, jalapeño, cilantro, and salt.",
+          "Taste and adjust the seasoning as needed.",
+          "Serve immediately with tortilla chips or use as a topping for tacos or other dishes."
+        ],
+        "image_url": "https://example.com/alton_brown_guacamole.jpg",
+        "video_url": "https://example.com/alton_brown_guacamole_video.mp4",
+        "nutrition_facts": {
+          "calories": 150,
+          "fat": "13g",
+          "carbs": "8g",
+          "protein": "2g"
+        }
+      }
+    ]
   },
   {
     "id": 4,
@@ -32,8 +529,179 @@
     "experience_years": 25,
     "rating": 4.3,
     "img_url": "https://example.com/mario_batali.jpg",
-    "num_recipes": 120,
-    "profile_picture": "https://example.com/mario_batali_profile.jpg"
+    "num_recipes": 3,
+    "profile_picture": "https://i.ibb.co/f9jWQ4y/food.png",
+    "recipe": [
+      {
+        "recipe_id": "1",
+        "name": "Spaghetti Carbonara",
+        "description": "This classic Italian dish is made with pasta, eggs, Parmesan cheese, and pancetta or bacon. It's a rich and creamy meal that's perfect for a cozy night in.",
+        "img_url": "https://example.com/recipes/spaghetti_carbonara.jpg",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 pound"
+          },
+          {
+            "name": "pancetta or bacon",
+            "quantity": "6 ounces"
+          },
+          {
+            "name": "eggs",
+            "quantity": "3"
+          },
+          {
+            "name": "Parmesan cheese",
+            "quantity": "1 cup, grated"
+          },
+          {
+            "name": "black pepper",
+            "quantity": "to taste"
+          }
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente.",
+          "Meanwhile, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and set aside.",
+          "In a small bowl, whisk together the eggs and Parmesan cheese.",
+          "When the spaghetti is done, reserve 1 cup of the pasta water and drain the rest. Add the reserved pasta water to the skillet with the pancetta or bacon and bring to a simmer.",
+          "Add the spaghetti to the skillet and toss to coat with the pancetta or bacon and the sauce.",
+          "Remove from heat and pour in the egg and Parmesan mixture, tossing quickly to coat the spaghetti and create a creamy sauce.",
+          "Season with black pepper to taste and serve immediately."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": 4,
+        "difficulty": "medium"
+      },
+      {
+        "recipe_id": 2,
+        "name": "Pappardelle with Short Rib Ragu",
+        "chef_name": "Mario Batali",
+        "ingredients": [
+          {
+            "name": "beef short ribs",
+            "quantity": "3 pounds"
+          },
+          {
+            "name": "kosher salt",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": " black pepper",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "olive oil",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "carrots",
+            "quantity": "2, peeled and chopped"
+          },
+          {
+            "name": "celery stalks",
+            "quantity": "2, chopped"
+          },
+          {
+            "name": "onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "garlic cloves",
+            "quantity": "4, chopped"
+          },
+          {
+            "name": "red pepper flakes",
+            "quantity": "1/2 teaspoon"
+          },
+          {
+            "name": "tomato paste",
+            "quantity": "3 tablespoons"
+          },
+          {
+            "name": "canned tomatoes",
+            "quantity": "1 (28-ounce) can"
+          },
+          {
+            "name": "beef broth",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "fresh thyme",
+            "quantity": "2 sprigs"
+          },
+          {
+            "name": "fresh oregano",
+            "quantity": "2 sprigs"
+          },
+          {
+            "name": "fresh rosemary",
+            "quantity": "2 sprigs"
+          },
+          {
+            "name": "pappardelle pasta",
+            "quantity": "1 pound"
+          },
+          {
+            "name": "grated cheese",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "chopped parsley leaves",
+            "quantity": "2 tablespoons"
+          }
+        ],
+        "instructions": [
+          "Preheat the oven to 375 degrees F.",
+          "Season the short ribs with the salt and pepper. In a large Dutch oven, heat the olive oil over medium-high heat. Working in batches if necessary, add the short ribs and cook until browned on all sides, about 7 minutes per side. Remove the short ribs from the pan and set aside.",
+          "Add the carrots, celery, onion, garlic, and red pepper flakes to the pan and cook until the vegetables are tender, about 10 minutes. Add the tomato paste and cook for 1 to 2 minutes. Add the red wine and cook until the liquid is reduced by half, about 5 minutes. Add the canned tomatoes with their juice, beef broth, thyme, oregano, and rosemary, and bring to a simmer.",
+          "Return the short ribs to the pan, cover, and place in the oven. Cook until the meat is very tender and falling off the bone, 3 to 3 1/2 hours. Remove the pan from the oven and let cool slightly. Remove the short ribs from the pan and let cool slightly. Remove the bones and discard. Shred the meat and return it to the sauce."
+        ]
+      },
+      {
+        "recipe_id": "3",
+        "name": "Spaghetti Carbonara",
+        "description": "This classic Italian dish is made with pasta, eggs, Parmesan cheese, and pancetta or bacon. It's a rich and creamy meal that's perfect for a cozy night in.",
+        "img_url": "https://example.com/recipes/spaghetti_carbonara.jpg",
+        "ingredients": [
+          {
+            "name": "spaghetti",
+            "quantity": "1 pound"
+          },
+          {
+            "name": "pancetta or bacon",
+            "quantity": "6 ounces"
+          },
+          {
+            "name": "eggs",
+            "quantity": "3"
+          },
+          {
+            "name": "Parmesan cheese",
+            "quantity": "1 cup, grated"
+          },
+          {
+            "name": "black pepper",
+            "quantity": "to taste"
+          }
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil. Add the spaghetti and cook until al dente.",
+          "Meanwhile, cook the pancetta or bacon in a large skillet over medium heat until crispy. Remove with a slotted spoon and set aside.",
+          "In a small bowl, whisk together the eggs and Parmesan cheese.",
+          "When the spaghetti is done, reserve 1 cup of the pasta water and drain the rest. Add the reserved pasta water to the skillet with the pancetta or bacon and bring to a simmer.",
+          "Add the spaghetti to the skillet and toss to coat with the pancetta or bacon and the sauce.",
+          "Remove from heat and pour in the egg and Parmesan mixture, tossing quickly to coat the spaghetti and create a creamy sauce.",
+          "Season with black pepper to taste and serve immediately."
+        ],
+        "prep_time": "10 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "30 minutes",
+        "servings": 4,
+        "difficulty": "medium"
+      }
+    ]
   },
   {
     "id": 5,
@@ -41,16 +709,131 @@
     "experience_years": 40,
     "rating": 4.8,
     "img_url": "https://example.com/wolfgang_puck.jpg",
-    "num_recipes": 200,
-    "profile_picture": "https://example.com/wolfgang_puck_profile.jpg"
+    "num_recipes": 3,
+    "profile_picture": "https://i.ibb.co/sv2VFxb/wolfgangpuck2018.jpg",
+    "recipe": [
+      {
+        "recipe_id": 1,
+        "name": "Grilled Rib-Eye Steaks with Salsa Verde",
+        "description": "A rib eye steak is a relatively expensive cut of steak that’s also known as an entrecôte or Delmonico steak. It’s cut from an area of the cow called the “primal section”, which is between the cow’s shoulders and the cow’s loin. There are actually a few kinds of rib eye steak, but all of them come from ribs six through twelve, all are marbled with fat and should be tender and rich when cooked.",
+        "ingredients": [
+          {
+            "name": "rib-eye steaks",
+            "quantity": "4 (12-ounce) steaks"
+          },
+          {
+            "name": "olive oil",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "kosher salt",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "black pepper",
+            "quantity": "1 tablespoon"
+          },
+          {
+            "name": "garlic cloves, minced",
+            "quantity": "2"
+          },
+          {
+            "name": "lemon zest",
+            "quantity": "2 teaspoons"
+          },
+          {
+            "name": "lemon juice",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "flat-leaf parsley leaves, chopped",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "mint leaves, chopped",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "capers, drained and rinsed",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "anchovy fillets, chopped",
+            "quantity": "2"
+          }
+        ],
+        "instructions": [
+          "Heat a grill to high.",
+          "Rub the steaks all over with the olive oil and season with salt and pepper.",
+          "Grill the steaks for 4-5 minutes per side for medium-rare.",
+          "Meanwhile, in a small bowl, whisk together the garlic, lemon zest, lemon juice, parsley, mint, capers, and anchovies.",
+          "Serve the steaks with the salsa verde on top."
+        ],
+        "image_url": "https://i.ibb.co/WBQFWMt/rib-eye-steaks-with-salsa-verde-87626-1.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "description": "I share this really easy and delicious goat cheese and sun-dried tomato pizza with fresh basil recipe that will make your pizza a snap. Even better, you can prepare the pizza dough up to a couple of days in advance, and then have the toppings ready to spread on the rolled-out dough in just moments. After just 10 to 12 minutes of baking, the pizzas will be ready to enjoy.",
+        "name": "Tomato and Basil Pizza",
+        "image_url": "https://i.ibb.co/ZMqv9xN/tomato-pizza.jpg",
+        "prep_time": "20 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "40 minutes",
+        "servings": 4,
+        "ingredients": [
+          {
+            "name": "Pizza dough",
+            "quantity": "1 pound"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tablespoons"
+          },
+          {
+            "name": "Plum tomatoes",
+            "quantity": "3"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 teaspoon"
+          },
+          {
+            "name": "Black pepper",
+            "quantity": "1/4 teaspoon"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "Mozzarella cheese",
+            "quantity": "8 ounces, grated"
+          },
+          {
+            "name": "Fresh basil leaves",
+            "quantity": "1/4 cup, chopped"
+          }
+        ],
+        "instructions": [
+          "Preheat the oven to 450°F.",
+          "Place the pizza dough on a lightly floured surface and stretch it out to a 12-inch round.",
+          "Transfer the dough to a baking sheet or pizza stone and brush it with olive oil.",
+          "Slice the tomatoes and arrange them on top of the pizza dough.",
+          "Season the tomatoes with salt, pepper, and minced garlic.",
+          "Sprinkle the grated mozzarella cheese over the tomatoes.",
+          "Bake the pizza for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+          "Remove the pizza from the oven and sprinkle chopped fresh basil leaves over the top.",
+          "Slice and serve immediately."
+        ]
+      }
+    ]
   },
   {
     "id": 6,
     "name": "Tyler Florence",
     "experience_years": 15,
     "rating": 4.2,
-    "img_url": "https://example.com/tyler_florence.jpg",
-    "num_recipes": 90,
-    "profile_picture": "https://example.com/tyler_florence_profile.jpg"
+    "num_recipes": 3,
+    "profile_picture": "https://i.ibb.co/6HYsyJc/florence.jpg"
   }
 ]
