@@ -10,14 +10,11 @@
     "details": "Robert William Flay, is an American celebrity chef, restaurateur, and reality television personality. Flay is the owner and executive chef of several restaurants and franchises, including Bobby's Burger Palace, Bobby's Burgers, and Amalfi.",
     "recipe": [
       {
-        "id": 1,
+        "recipe_id": 1,
         "name": "Grilled Skirt Steak with Chimichurri Sauce",
         "chef_name": "Bobby Flay",
         "image_url": "https://i.ibb.co/6ZqNY3r/Skirt-Steak-with-Chimichurri-main-1.webp",
         "description": "This grilled skirt steak with chimichurri sauce is perfect for a weekend barbecue. The skirt steak is marinated in a mixture of olive oil, garlic, and spices before being grilled to perfection. The chimichurri sauce is a flavorful combination of parsley, garlic, vinegar, and olive oil.",
-        "prep_time": "30 minutes",
-        "cook_time": "10 minutes",
-        "total_time": "40 minutes",
         "ingredients": [
           {
             "name": "Skirt steak",
@@ -71,7 +68,7 @@
         ]
       },
       {
-        "id": 2,
+        "recipe_id": 2,
         "chef_name": "Bobby Flay",
         "name": "Grilled Honey-Soy Glazed Salmon",
         "image_url": "https://i.ibb.co/2hzQrz3/Grilled-Honey-Soy-Glazed-Salmon.jpg",
@@ -129,14 +126,9 @@
         ]
       },
       {
-        "id": 3,
+        "recipe_id": 3,
         "name": "Spicy Grilled Shrimp Skewers",
         "chef_name": "Bobby Flay",
-        "difficulty": "Easy",
-        "prep_time": "15 minutes",
-        "cook_time": "5 minutes",
-        "total_time": "20 minutes",
-        "yield": "4 servings",
         "rating": 4.8,
         "ingredients": [
           {
@@ -340,7 +332,7 @@
     "profile_picture": "https://i.ibb.co/SJ0FdqV/Alton.png",
     "recipe": [
       {
-        "recipe_id": "1",
+        "recipe_id": 1,
         "name": "Pan-Seared Ribeye Steak",
         "description": "A classic steakhouse dish made with a thick-cut ribeye steak seasoned with salt and pepper and seared to perfection in a cast iron skillet.",
         "prep_time": "10 minutes",
@@ -398,7 +390,7 @@
         }
       },
       {
-        "recipe_id": "2",
+        "recipe_id": 2,
         "name": "Good Eats Meatloaf",
         "description": "A classic meatloaf recipe with a twist, featuring ground beef, pork, and veal, along with bread crumbs, milk, and a savory mixture of seasonings.",
         "prep_time": "15 minutes",
@@ -477,7 +469,7 @@
         }
       },
       {
-        "recipe_id": "3",
+        "recipe_id": 3,
         "name": "Alton Brown's Guacamole",
         "description": "A simple and classic recipe for guacamole, featuring ripe avocados, fresh lime juice, chopped tomatoes, red onion, jalapeño, and cilantro.",
         "prep_time": "10 minutes",
@@ -541,7 +533,7 @@
     "profile_picture": "https://i.ibb.co/f9jWQ4y/food.png",
     "recipe": [
       {
-        "recipe_id": "1",
+        "recipe_id": 1,
         "name": "Spaghetti Carbonara",
         "description": "This classic Italian dish is made with pasta, eggs, Parmesan cheese, and pancetta or bacon. It's a rich and creamy meal that's perfect for a cozy night in.",
         "image_url": "https://i.ibb.co/Dtg6TvW/pasta-carbonara-recipe-5210168-hero-01-80090e56abc04ca19d88ebf7fad1d157.jpg",
@@ -671,7 +663,7 @@
         ]
       },
       {
-        "chef_id": "3",
+        "recipe_id": 3,
         "name": "Linguine with Clams and Pancetta",
         "rating": 4.8,
         "image_url": "https://i.ibb.co/3TgSCxM/images-q-tbn-ANd9-Gc-RH07o9-OSh-Ql-EZOu-OEwy-Haqj4-AWs08u-XK6-WZPc-Ut-XKFNi-GS2-SBJ0rz-ZE1q-Uq6-l-mm.jpg",
@@ -853,7 +845,7 @@
         ]
       },
       {
-        "recipe_id": "3",
+        "recipe_id": 3,
         "name": "Grilled Chicken Paillard",
         "ratings": 4.8,
         "image_url": "https://i.ibb.co/LYnykmX/Grilled-Chicken-Paillard-5.jpg",
@@ -908,7 +900,7 @@
     "profile_picture": "https://i.ibb.co/6HYsyJc/florence.jpg",
     "recipe": [
       {
-        "recipe_id": "1",
+        "recipe_id": 1,
         "name": "Ultimate Macaroni and Cheese",
         "description": "The recipe starts by making a roux with butter and flour, then whisking in milk to create a creamy sauce. The cooked macaroni is then combined with the cheese sauce, and the whole dish is topped with breadcrumbs and Parmesan cheese before being baked until golden and bubbly. Ultimate Macaroni and Cheese is a classic comfort food that's creamy, cheesy, and oh-so-satisfying.",
         "image_url": "https://i.ibb.co/7r0Gs5d/macorni.jpg",
@@ -971,7 +963,7 @@
         ]
       },
       {
-        "recipe_id": "2",
+        "recipe_id": 2,
         "chef_id": "tyler_florence",
         "name": "Grilled Skirt Steak Tacos",
         "description": "Grilled Skirt Steak Tacos are a delicious and flavorful way to enjoy Mexican cuisine. Skirt steak is a thin and flavorful cut of beef that's perfect for grilling and works well in tacos.",
@@ -1004,7 +996,7 @@
         ]
       },
       {
-        "recipe_id": "3",
+        "recipe_id": 3,
         "chef_id": "tyler_florence",
         "name": "Ultimate Beef Stroganoff",
         "description": "Ultimate Beef Stroganoff is a rich and savory dish that originated in Russia and has since become a popular comfort food around the world. Here's a description of this mouthwatering dish: The dish typically features strips of tender beef that are sautéed until browned and cooked to perfection. The beef is then combined with a creamy sauce made from sour cream, beef broth, onions, garlic, and a touch of tomato paste.",
